@@ -28,3 +28,4 @@ You can reload a powershell profile at any time by executing:
 `mkdir` - crates a new folder<br/>
 `ccdir` - copies the current directory path to clipboard<br/>
 `mkdirc` - creates a folder and copies its path to clipboard<br/>
+`unzip` - unzips an archive using built-in implementation
