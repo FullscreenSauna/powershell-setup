@@ -21,3 +21,10 @@ You can reload a powershell profile at any time by executing:
 ```
 . $profile
 ```
+
+# Custom commands explanation
+
+`touch` - creates a new file<br/>
+`mkdir` - crates a new folder<br/>
+`ccdir` - copies the current directory path to clipboard<br/>
+`mkdirc` - creates a folder and copies its path to clipboard<br/>
